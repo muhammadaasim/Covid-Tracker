@@ -10,6 +10,7 @@ function App() {
      <Cards/>
      <CountryPicker/>
      <Chart/>
+     <h5>Made By Muhammad Aasim</h5>
     </div>
   );
 }
