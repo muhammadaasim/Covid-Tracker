@@ -1,9 +1,14 @@
 import React from 'react';
+import Cards from './Cards/Cards'
+import Chart from './Chart/Chart'
+import CountryPicker from './CountryPicker/CountryPicker'
 
 function App() {
   return (
     <div>
-     Cleaned Project
+     <Cards/>
+     <CountryPicker/>
+     <Chart/>
     </div>
   );
 }
