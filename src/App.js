@@ -15,9 +15,8 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer">
-         Hello React
+         Hello Aasim
         </a>
-        <h2>GOod Morning x !</h2>
       </header>
     </div>
   );
