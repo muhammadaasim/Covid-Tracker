@@ -17,7 +17,7 @@ function App() {
           rel="noopener noreferrer">
          Hello React
         </a>
-        <h2>GOod Morning !</h2>
+        <h2>GOod Morning x !</h2>
       </header>
     </div>
   );
