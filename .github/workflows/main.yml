@@ -31,6 +31,9 @@ jobs:
     - name: GitHub Action for Yarn
       uses: Borales/actions-yarn@v2.3.0
       with:
+    # Installing Material UI
+    - name: Installing Material UI
+      run: yarn add @material-ui/core
     # Yarn command
         cmd: install 
     - name: yarn build
