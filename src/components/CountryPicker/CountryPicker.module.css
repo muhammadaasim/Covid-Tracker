@@ -1,0 +1,17 @@
+.formControl {
+  padding-top: 20px !important;
+  width: 53%;
+  margin-bottom: 30px !important;
+  margin-left:0px !important;
+}
+.heading{
+font-weight: bold !important;
+}
+@media only screen and (max-width: 770px) {
+  .formControl {
+    padding-top: 20px !important;
+    width: 60%;
+    margin-bottom: 30px !important;
+    margin-left:0px !important;
+  }
+  }

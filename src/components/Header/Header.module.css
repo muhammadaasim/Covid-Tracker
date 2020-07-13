@@ -1,0 +1,17 @@
+.box{
+height: 60px;
+width:100%;
+background-color: blue;
+color:white;
+box-shadow: 5px 5px 10px #aaaaaa;
+}
+.title{
+padding: 18px;
+font-size: 20px;
+text-align: center;
+text-shadow: black;
+}
+*{
+margin:0px;
+padding:0px;
+}
