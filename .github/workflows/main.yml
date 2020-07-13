@@ -28,7 +28,6 @@ jobs:
       with:
          version: 12  
     # Making Build
-        cmd: install 
     - name: Making Build
       run: npm run build
       
